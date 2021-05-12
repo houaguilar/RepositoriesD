@@ -1,0 +1,2 @@
+rootProject.name = "InjectoresKotlin"
+include ':app'
